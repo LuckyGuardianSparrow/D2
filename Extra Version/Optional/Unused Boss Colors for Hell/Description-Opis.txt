@@ -1,0 +1,7 @@
+English
+-------
+Makes some Super-Unique monsters spawn in their unused colors on the Hell difficulty.
+
+Polski
+------
+Robi ¿e parê Super-Niezwyk³ych potworów pojawia siê w swoich nieu¿ytych kolorach na trudnoœci Piek³o.
