@@ -11,7 +11,7 @@
 
 <br>
 <center>
-  <img src="../images/diablo2.jpg">
+  <img src="/images/diablo2.jpg">
 </center>
 
 <br><br>
