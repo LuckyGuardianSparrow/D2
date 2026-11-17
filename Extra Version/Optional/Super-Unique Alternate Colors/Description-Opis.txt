@@ -1,0 +1,7 @@
+English
+-------
+Changes super-uniques to use closest to original, color palettes that aren't bugged by a randtransform.dat error.
+
+Polski
+------
+Zmienia super-niezwyk³ych ¿eby u¿ywali podobnych do orginalnych, palet kolorów nie zbugowanych przez b³¹d w randtransform.dat.
