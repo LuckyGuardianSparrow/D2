@@ -1,0 +1,6 @@
+English
+-------
+All Greater Mummies use the Bestow skill which heals one of their skeletons for 10-15%.
+Polski
+-------
+Wszystkie Wielkie Mumie u¿ywaj¹ skilla Bestow który leczy jednego ich szkieleta o 10-15%.
