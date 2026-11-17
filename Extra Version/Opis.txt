@@ -1,0 +1,126 @@
+<>AKT I<>
+
+Den of Evil ma teraz wejœcie do Cave Depths (Den of Evil Level 2) - Zombie, Fallen Shaman i Quill Bear (quillbear1), Quill Rat i Fallen jako randomowy Boss na Normal.
+Burial Grounds jest normalnym levelem (Wiêksze,z niezwyk³ymi potworami,dekoracjami i skrytkami)
+W ruinach na Dark Woods jest wejœcie do Decaying Chambers, ma: Rotting Carcass (z Diablo I), Skeleton Archer, Evil Hole
+Z Decaying Chambers jest po³¹czony Shaded Cavity z: Rotting Carcass (z Diablo I), Spike Giant (quillbear2), Misshapen
+Forgotten Tower (Tower Cellar) nie jest pusty. 
+Monastery Gate jest teraz wiêksze, a wiêc jest wiêcej szans na zobaczenie potworów niezwyk³ych do tego miejsca.
+Monastery Gate ma teraz przejœcie do Solitary Hut który ma: Black Lancer (cr_lancer4), Returned Mage (skmage_cold1)
+Monastery Gate ma teraz wejœcie do Chasm Level 1-2 które maj¹ Returned Mage (skmage_pois1), Black Lancer (cr_lancer4), Thorn Brute (quillbear3), Devilkin Shaman (Preset), Dark One (Preset)
+Inner Cloister jest d³u¿szy.
+Cathedral ma nieu¿yty Shrine.
+Inner Cloister jest po³¹czony z Cathedral Garden który ma: Undead Rat Man (bonefetish1), Black Archer, Razor Beast (quillbear4)
+W Cathedral jest wejœcie do Forgotten Passages Level 1-2 które maj¹: RatMan Blowdart (fetishblow1), Tomb Viper (clawviper1), Bone Mage (skmage_cold2) (w Level 2 jest Bone Mage (skmage_pois2) i Rat Man Shaman (fetishshaman1))
+
+<>AKT II<>
+
+W Stony Tomb Level 2 jest teraz wejœcie do Sandstone Nest który ma: Sand Fisher (arach2), Dung Soldier, Desert Wing
+W Far Oasis obok Beetleburst jest wejœcie do Vile Crypt Level 1-2 które maj¹: Sand Fisher (arach2) (w Level 2 jest Death Beetle), Black Death (z Diablo I), Burning Dead Mage (Cold),
+W Lost City, obok Dark Eldera jest wejœcie do Lost Tomb, jest tam: Night Slinger (slinger3), Marauder i Tomb Creeper
+Valley of Snakes jest teraz poziomem! Pada tu i ma te same potwory jak w grobowcach pod tym miejscem.
+Valley of Snakes ma wejœcie do Swarmed Abyss Level 1-2 które maj¹: Rock Worm, Black Locusts, i Spirit Mummy (Unused)
+W Arcane Sanctuary jest wejœcie do Desolate Sands, s¹ tam: Rock Dweller (baboondemon2), Ghoul Lord, Hell Clan
+W Desolate Sands jest wejœcie do Abandoned Floor który ma: Rock Dweller (baboondemon2), Blunderbore, Invader
+Na Normal - Canyon of The Magi ma 1 niezwyk³ego potwora.
+
+<>AKT III<>
+
+Na pocz¹tku Spider Forest jest wejœcie do Overgrown Stronghold. Ma on: Bush Barb (quillrat5), Cloud Stalker Nest (crownest4), Thorned Hulk
+W Overgrown Fortress jest - Stronghold Basement. Jest tam - Barbed Giant (quillbear5), Plague Bugs (swarm3), Jungle Hunter
+Obok Waypointu Great Marsh jest Murky Nest, ma on - Flame Spider, Plague Bugs (swarm3), Undead Fetish (bonefetish2)
+W Swampy Pit Level 3 jest przejœcie do Swampy Pit Level 4 - który ma: Blook Hook (mosquito3), Pit Viper (clawviper4) i Soul Killer Blowdart
+Sewers 2 jest wiêksze.
+W Sewers 2 jest wejœcie do Horadric Grave który ma: Blood Wing, Horadrim Ancient, Swamp Ghost (willowisp2).
+Kurast Causeway jest du¿o d³u¿sze i nie ma Hierofanta, daje to trochê wiêksz¹ szansê na zobaczenie potworów w tym miejscu.
+W Kurast Causeway s¹ 2 nowe Temple które maj¹: Stygian Doll Shaman (fetishshaman5), Stygian Doll (fetish5), Stygian Doll Blowdart (fetishblow5), Flesh Lancer (cr_lancer5)
+w Travincalu jest przejœcie do Temple Grounds które maj¹: Warped One, High Priest (cantor4)
+W Temple Grounds jest wejœcie do Warped Temple który ma: Warped Shaman, Night Marauder (baboon6), Dark Lord
+Niezwyk³e i zwyk³e Giant Mosquito maj¹ kolory (Korzystaj¹ z nieu¿ytych kolorów dodanych do nich w rozszerzeniu).
+Fetish Blowdart maj¹ kolory.
+High Council jest kolorowy tak jak powinien.
+Wyand Voidfinger ma zmieniony numer koloru na 37, gdy¿ niema paletty koloru 38, przez co mia³ domyœlny.
+
+<>AKT IV<>
+
+Odrazu przy schodach Pandemonium jest wejœcie do Agony Dungeon i Agony Depths, które maj¹: Assailant (sandraider5), Balrog, Hell Horror Archer (w Level 2 jest Poison Mage)
+Obok Izuala jest Portal do Dread Ruins który ma: Spikefist (thornhulk4), Hell Horror, Hell Horror Mage (Cold)
+W Chaos Sanctuary jest Portal do Altar of Blood który ma: Black Soul (willowisp4), Oblivion Knight, Venom Lord
+The Tormentor ma zmieniony numer koloru na 6 (nieu¿yty kolor Willowisp) gdy¿ mia³ ustawiony na 9 a willowispy nie korzystaj¹ z kolorów randtransform, przez co mia³ domyœlny.
+
+<>AKT V<>
+
+W Bloody Foothills jest Portal do Secluded Cliff który ma: Overseer (overseer1), Siege Beast (siegebeast1), Succubus (No Boss on Normal), Demon Imp (Normal - Boss)
+W Nihlathak's Temple jest wejœcie do Halls of Torture które maj¹: Prowling Dead (No Boss on Normal), Siren (succubuswitch1), Demon Gremlin, Rot Walker (Normal - Boss), Slayer (Normal - Boss)
+Przy Waypoincie w Frozen Tundra jest wejœcie do Bleak Burrow z: Chilled Froth (snowyeti3), Hell Whip (overseer5), Blood Bringer (siegebeast3), Frozen Creeper (Normal - Boss), Ice Boar (Normal - Boss)
+W Bleak Burrow jest wejœcie do Cold Den z: Hell Spawn (minion5), Fetid Defiler (Normal - No Boss), Hell Lord (Normal - No Boss), Defiled Warrior (Normal - Boss), Vile Tempress (Normal - Boss), Crush Beast (Normal - Boss)
+Na Arreat's Summit jest wejœcie do Darkened Glacier który ma: Frozen Horror (frozenhorror4), Gore Bearer (siegebeast4), Death Berserker
+W Darkened Glacier jest wejœcie do Freezing Grounds z: Frozen Scorch (frozenhorror5), Demon Steed (siegebeast5), Death Brigadier (Normal - No Boss), Demon Sprite (Normal - Boss)
+W Darkened Glacier jest wejœcie do The Blizzard który ma: Ice Boar, Fire Boar i Niezwyk³ych Fire Boar, Frenzied Ice Spawn, Unholy Corpse na Normal, a na Nightmare ma: Wretched Defiler, oraz wszystkie potwory bez wersji Guest: Yeti, Zombie, Black Locusts, Feeder, Abyss Knight, Blood Hawk Nest
+Throne of Destruction ma wejœcie do The Worldstone Keep Level 4 który ma: Insane Hell Spawn (suicideminion7), Greater Ice Spawn (minion8), Blood Witch (succubuswitch4), Rancid Defiler (Normal - Boss)
+W Worldstone Keep Level 4 jest: Worldstone Keep Level 5, ma: Insane Ice Spawn (suicideminion8), Rank Defiler (putriddefiler5), Hell Witch (succubuswitch5)
+Wczeœniej niewystêpuj¹cy Pain Worm znajduje siê w Halls of Torture od Corrupting Menace i Minions, a Agony Worm wystêpuje w Cold Den
+Na Normal - Bloody Foothills maj¹ 1-2 niezwyk³ych potworów.
+Na Normal - Halls of Anguish, Halls of Pain maj¹ 1-2 niezwyk³ych potworów.
+Na Normal - Halls of Vaught ma 1-2 niezwyk³ych potworów.
+Na Normal - Worldstone Keep LVL 1,2,3 maj¹ od 1-2 niezwyk³ych potworów a Throne of Destruction ma 1
+Guest Fallen Shamany maj¹ opisy tak jak powinny a nie "Raises Warped Fallen" na wszystkim. To samo u Guestowych Fetish Shamanów.
+Guest Guardian (unraveler6) nie ma opisu "wskrzesza Nieumar³ych" bo nie ma ¿adnych innych nieumar³ych w Halach Bólu.
+Guest Moon Clan (goatman6) ma opis Drains Mana
+Guest Blood Hawk (foulcrow6) ma opis Steals Life
+Guest Black Raptor (foulcrow7) ma opis Drains Mana
+Guest Potwory oparte na potworach z Aktu V maj¹ opis Guest ¿eby mo¿na by³o rozró¿niæ co jest Guestem a co nie.
+Unravelery od Achmela nazywaj¹ siê teraz Soulless i maj¹ czerwonawy kolor.
+Council Member od Bartuca nazywaj¹ siê teraz Depraved Councilor i maj¹ ciemny Zielony kolor.
+Venom Lord od Ventara nazywaj¹ siê teraz Taint Lord i maj¹ z³otawy kolor.
+Varianty Abominable odró¿niaj¹ siê kolorami a Niezwyk³e Abominable pojawiaj¹ siê w kolorach.
+Varianty Frozen Horrory odró¿niaj¹ siê kolorami a Niezwyk³e Frozen Horrory pojawiaj¹ siê w kolorach.
+Varianty Siege Beasts odró¿niaj¹ siê kolorami a Niezwyk³e Siege Beasty pojawiaj¹ siê w kolorach.
+Varianty Reanimated Horde odró¿niaj¹ siê kolorami a Niezwyk³e Reanimated Horde pojawiaj¹ siê w kolorach.
+Varianty Putrid Defilery odró¿niaj¹ siê kolorami a Niezwyk³e Putrid Defiler pojawiaj¹ siê w kolorach.
+Ropiej¹ce Naroœla maj¹ t¹ sam¹ kolorystykê co Baal, zale¿nie od poziomu trudnoœci.
+Hell's Belle ma zmieniony numer koloru na 37, gdy¿ niema paletty koloru 38, przez co mia³a domyœlny.
+Thresh Socket jest w kolorze w którym powinien byæ.
+Frozenstein jest w kolorze w którym powinien byæ.
+Pindleskin jest w kolorze w którym powinien byæ.
+Bonesaw Breaker jest w kolorze w którym powinien byæ.
+Snapchip Shatter jest w kolorze w którym powinien byæ.
+Lister The Tormentor jest w kolorze w którym powinien byæ.
+
+<>Inne<>
+
+3 Pierwsze Exploding Minion korzystaj¹ poprawnie z headpiece LIT (By³o HVY - to co maj¹ ostatnie 2 rodzaje) tak jak odpowiadaj¹ce im normalne Miniony.
+Kolor Berserker Slayer jest zamieniony z Consumed Ice Boar ¿eby zgadza³y siê z potworami z których siê zamieniaj¹.
+Rodzaj potwora Goatman ma swoje nieu¿yte dŸwiêki Idle
+Uber Duriel nie mówi "Looking for Baal?" Co nie ma sensu u niego. Teraz mówi "I am your doom"
+Diablo potrafi siê œmiaæ swoimi trzema nieu¿ytymi œmiechami
+Niezwyk³e/Czempionowe Flying Scimitar s¹ w kolorach. (Rzadkie do zobaczenia)
+Wszystkie postacie maj¹ kopniaka.
+Barbarzyñca mo¿e rzucaæ z drugiej rêki.
+Pierœcienie mog¹ pojawiaæ siê w 6 nieu¿ytej grafice
+Amulety mog¹ pojawiaæ siê 4 nieu¿ytej grafice
+
+xxNie doda³em:xx
+Sucker Nests (Nie ma na to miejsca nigdzie)
+Evil Wolves (Maj¹ AI Smitha, przez co s¹ nudne i jeœli da siê inne AI to ich grafika znika)
+
+xxUwagi:xx
+-Fragment Kurast - metro16x16_5.ds1 jest u¿yty w wejœciu do Overgrown Stronghold.
+-Fragmenty Kurast - metro16x08_2,metro16x16_4,metro16x16_6.ds1 pojawiaj¹ siê w grze.
+-Monastery Gate korzysta z fragmentów wild1,2,3,4,5,6,7,8,9.ds1.
+-High Priest to nazwa dodana przeze mnie.
+-Cave Depths to tak naprawdê nieu¿yty "caveroom1"
+-Decaying Chambers to nieu¿yty "jail_t"
+-Solitary Hut to nieu¿yty "guild1"
+-Buried Cavern Level 2 to nieu¿yty "caveroom6"
+-Vile Crypt Level 1 to nieu¿yty "DM2"
+-Vile Crypt Level 2 to nieu¿yty "tombtreasure"
+-Lost Tomb Level 1 to nieu¿yty "DM3"
+-Swarmed Abyss Level 2 to nieu¿yty "magtreas" i "magtreas2"
+-Abandoned Floor to te¿ nieu¿yty poziom "harem1"
+-Overgrown Stronghold to nieu¿yty "guild4b" i "guild5b"
+-Secluded Cliff to nieu¿yty "townsiege"
+-Halls of Torture to nieu¿yty "temple01"
+-Freezing Grounds to z³¹czone nieu¿yte fragmenty: "iceNE1,iceNE2,iceNE3,iceNW1,iceNW2,iceNW3,iceSE1,iceSE2,iceSE3,iceSW1,iceSW2,iceSW3"
+-The Blizzard to z³¹czone nieu¿yte fragmenty: "iceEdreh,iceNdreh,iceSdreh,iceWdreh"
+-The Worldstone Keep Level 5 to nieu¿yty "baaltest00"
