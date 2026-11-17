@@ -1,0 +1,49 @@
+English
+-------
+Adds 17 new monster variants that replace normal monsters in the unused locations.
+
+Decaying Chambers - Stinger
+Shaded Cavity - Stinger
+
+Sandstone Nest - Lavender Beetle, Shriekbat
+Vile Crypt Level 1 - Blight Beak
+Lost Tomb - Soul Husk
+Swarmed Abyss - Dreadwing, Phantom Biters
+Desolate Sands - Dust Lord, Dusk Clan
+Abandoned Floor - Magog, Dreadwing Nest
+
+Overgrown Stronghold - Forest Panther
+Stronghold Basement - Forest Slinger
+Warped Temple - Punished
+
+Agony Dungeon - Abyss Spawn
+Agony Depths - Magma Swimmer
+Dread Ruins - Bone Gulper, Mana Seeker
+Altar of Blood - Negator
+
+Note: This mod is incompatible with Evil Wolves Enabled,  Magic Resist Addon and Original Baal's Champions
+
+Polski
+------
+Dodaje 17 nowych wariantów potworów które zastêpuj¹ normalne potwory w nieu¿ytych lokacjach.
+
+Gnij¹ce Komnaty - ¯¹d³o
+Zacienione Wg³êbienie - ¯¹d³o
+
+Piaskowcowe Gniazdo - Lawendowy Chrz¹szcz, Wrzeszcz¹cy Nietoperz
+Wstrêtna Krypta (Poziom 1) - Dziób Zarazy
+Zagubiony Grobowiec - Cieñ Duszy
+Zarojona Otch³añ - Skrzyd³o Grozy, Fantomowe K¹sacze
+Opustosza³e Piaski - Pan Py³u, Klan Zmierzchu
+Opuszczone Piêtro - Magog, Gniazdo Grozy
+
+Zaroœniêta Twierdza - Leœna Pantera
+Piwnica Twierdzy - Leœny Miotacz
+Spaczona Œwi¹tynia - Ukarany
+
+Lochy Agonii - Pomiot Otch³ani
+G³êbiny Agonii - Magmowy P³ywak
+Ruiny Grozy - Po³ykacz Koœci, Szukaj¹cy Many
+O³tarz Krwi - Negator
+
+Uwaga: Ten mod jest niekompatybilny z dodatkiem Evil Wolves Enabled, Magic Resist i z Original Baal's Champions.
