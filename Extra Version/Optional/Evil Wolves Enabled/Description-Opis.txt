@@ -1,0 +1,19 @@
+English
+-------
+Enables the Evil Wolves, they replace some normal monsters.
+
+Shaded Cavity - Vicious Wolf + Shadowhowl
+Solitary Hut - Demon Wolf
+Chasm 1-2 - Cave Shambler
+Overgrown Stronghold-Basement - Vine Snatch
+Altar of Blood - Flayed Hound
+
+Polski
+------
+W³¹cza Evil Wolves, zastêpuj¹ parê normalnych potworów.
+
+Shaded Cavity - Vicious Wolf + Shadowhowl
+Solitary Hut - Demon Wolf
+Chasm 1-2 - Cave Shambler
+Overgrown Stronghold-Basement - Vine Snatch
+Altar of Blood - Flayed Hound
