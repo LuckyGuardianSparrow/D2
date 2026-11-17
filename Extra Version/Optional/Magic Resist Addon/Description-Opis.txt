@@ -1,0 +1,7 @@
+English
+-------
+Adds Magic Resist prefixes to random items.
+
+Polski
+------
+Dodaje prefixy Odpornoœci na Magiê do losowych przedmiotów.
