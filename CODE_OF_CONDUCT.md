@@ -12,7 +12,6 @@
 <br>
 <center>
   <img src="../images/diablo2.jpg">
-  <br><a href="../index.htm">Return to the main menu</a>
 </center>
 
 <br><br>
