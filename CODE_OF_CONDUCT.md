@@ -1,7 +1,5 @@
-<html><head>
-  <title>Diablo II: Lord of Destruction Technical Support - Legal FAQ</title>
+# Diablo II: Lord of Destruction Technical Support - Legal FAQ
 
-</head>
 
 
 
