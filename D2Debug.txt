@@ -1,0 +1,54 @@
+01.15.17 23:13:54  D2VideoTest running under Windows NT (Version 6.010)
+Vendor:  AMD
+Version: {Unknown} (Type 0, Family F, Model 4, Stepping 3)
+Speed: Approx. 2997 MHz
+Total Physical Memory: 2039.89 MB
+Application Path: d:\games\Diablo II\D2VidTst.exe
+imagehlp.dll loaded for better stack crawls.
+----------------------------------------------
+
+Able to access user registry to delete flag
+Deleted vidtestrequiredflag
+... continuing Video Test
+Enumerating display device
+Creating running dialog
+Running dialog displayed, continuing ...
+Ready to detect operating system
+Detecting Operating System and DirectX...
+	osDetect()
+	Valid version of DirectX found. (4.9.0.904)
+...Done Detecting Operating System and DirectX: Success
+OSDetect passed: Registering window class...
+... Done Registering window class
+DDrawDetect...
+Detecting boards which support DirectDraw...
+	Checking capabilities of NVIDIA GeForce 9400 GT ...
+		Supports 32 bit cutscenes.
+		Video Memory Total= 1773.508 MB, Free= 1773.050 MB
+		Passed requirements for Diablo II.
+Destroyed DDraw window.
+Direct3DDetect...
+Detecting boards which support Direct3D...
+	Checking capabilities of NVIDIA GeForce 9400 GT ...
+		VendorID = 0x000010de, DeviceID = 0x00000641
+		Supports 32 bit cutscenes.
+		Video Memory Total= 1773.508 MB, Free= 1771.677 MB
+		Texture Memory Total= 1773.508 MB, Free= 1771.677 MB
+			Local Total= 1009.563 MB, Free= 1007.731 MB
+			AGP Total= 763.945 MB, Free= 763.945 MB
+		Supports 1555 textures.
+		Passed requirements for Diablo II.
+Destroyed D3D window.
+GlideDetect...
+Detecting boards which support Glide...
+Missing glide3x.dll.  Assuming no 3dfx boards present!
+Done with Detection phase...
+Creating final dialog ...
+Recommending ddraw0 in final dialog.
+Recommending d3d0 in final dialog.
+Displaying info message in final dialog.
+Show window in final dialog.
+Ending final dialog for IDOK.
+Done with Interactive phase...
+Able to access user registry to delete flag
+Video Test application completed without error.
