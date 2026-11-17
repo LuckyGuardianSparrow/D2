@@ -1,0 +1,7 @@
+English
+-------
+Restores the original colors and names of champions that Baal summons.
+
+Polski
+------
+Przywraca orginalne kolory i nazwy czempionów których Baal przyzywa.
