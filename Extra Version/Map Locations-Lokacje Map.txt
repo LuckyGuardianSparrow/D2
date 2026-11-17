@@ -1,0 +1,75 @@
+ENGLISH
+-------
+This is a description of which locations have access to new areas, more readable than detailed description.
+
+<ACT I>
+Den of Evil -> Cave Depths
+Dark Woods -> Decaying Chambers -> Shaded Cavity
+Monastery Gate -> Chasm 1-2, Solitary Hut
+Inner Cloister -> Cathedral Garden
+Cathedral -> Forgotten Passages 1-2
+
+<ACT II>
+Stony Tomb 2 -> Sandstone Nest
+Far Oasis -> Vile Crypt 1-2
+Lost City -> Lost Tomb
+Valley of Snakes -> Swarmed Abyss 1-2
+Arcane Sanctuary -> Desolate Sands -> Abandoned Floor
+
+<ACT III>
+Spider Forest -> Overgrown Stronghold -> Stronghold Basement
+Great Marsh -> Murky Nest
+Swampy Pit 3 -> Swampy Pit 4
+Sewers 2 -> Horadric Grave
+Kurast Causeway -> Forgotten Fane, Ruined Reliquary
+Travincal -> Temple Grounds -> Warped Temple
+
+<ACT IV>  
+Outer Steppes -> Agony Dungeon -> Agony Depths
+Plains of Despair - Dread Ruins
+Chaos Sanctuary -> Altar of Blood
+
+<ACT V>
+Bloody Foothills -> Secluded Cliff
+Nihlathak's Temple -> Halls of Torture
+Frozen Tundra -> Bleak Burrow -> Cold Den
+Arreat's Summit -> Darkened Glacier -> Freezing Grounds, The Blizzard
+Throne of Destruction - The Worldstone Keep 4 -> The Worldstone Keep 5
+
+POLISH
+------
+To jest opis jakie lokacje maj¹ przejœcie do nowych, bardziej czytelne ni¿ szczegó³owy opis.
+
+<AKT I>
+Siedlisko Z³a -> Jaskiniowe G³êbiny
+Mroczna Knieja -> Gnij¹ce Komnaty -> Zaciemnione Wglêbienie
+Klasztorna Brama -> Przepaœæ 1-2, Samotna Chata
+Wewnêtrzny Monastyr -> Ogród Katedralny
+Katedra -> Zapomniane Przejœcia 1-2
+
+<AKT II>
+Kamienny Grobowiec 2 -> Piaskowcowe Gniazdo
+Daleka Oaza -> Wstrêtna Krypta 1-2
+Zagubione Miasto -> Zagubiony Grobowiec
+Dolina Wê¿y -> Zarojona Otch³añ 1-2
+Tajemne Sanktuarium -> Opustosza³e Piaski -> Opuszczone Piêtro
+
+<AKT III>
+Las Paj¹ków -> Zaroœniêta Twierdza -> Piwnica Twierdzy
+Wielkie Moczary -> Mêtna Nora
+Bagienna Czeluœæ 3 -> Bagienna Czeluœæ 4
+Kana³y 2 -> Grób Horadrimów
+Grobla w Kurast -> Zapomniana Kaplica, Zrujnowany Relikwiarz
+Travincal -> Ziemie Œwi¹tynne -> Spaczona œwi¹tynia
+
+<AKT IV>
+Zewnêtrzne Stepy -> Lochy Agonii -> G³êbiny Agonii
+Równina Rozpaczy -> Ruiny Grozy
+Sanktuarium Chaosu -> O³tarz Krwi
+
+<AKT V>
+Krwawe Wzgórza -> Odosobniony Klif
+Œwi¹tynia Nihlathaka -> Sale Tortur
+Zamarzniêta Tundra -> Posêpna Jama -> Zimna Nora
+Szczyt Arreat -> Przyciemniony Lodowiec -> Zamarzaj¹ce Ziemie, Zamieæ
+Tron Zniszczenia - Twierdza Kamienia Œwiata 4 -> Twierdza Kamienia Œwiata 5
