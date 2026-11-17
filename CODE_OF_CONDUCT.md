@@ -1,6 +1,6 @@
 <html><head>
   <title>Diablo II: Lord of Destruction Technical Support - Legal FAQ</title>
-  <link rel="stylesheet" type="text/css" href="../include/support.css">
+
 </head>
 
 <body bgcolor="#000000" text="#238ad4" link="#238ad4" vlink="#aaaaaa">
